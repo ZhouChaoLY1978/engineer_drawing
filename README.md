@@ -1,1 +1,9 @@
-# engineer_drawing
+# 工程制图学习指北
+
+本书采用 **知识共享 署名-相同方式共享 4.0 国际协议 (CC BY-SA 4.0)** 开源。
+
+你可以自由复制、分发、改编、商用本作品，使用时需满足：
+1. 保留原作者署名；
+2. 衍生作品必须使用相同协议共享。
+
+完整协议：https://creativecommons.org/licenses/by-sa/4.0/deed.zh
